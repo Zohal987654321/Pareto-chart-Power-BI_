@@ -9,6 +9,3 @@ This method has real-world applications, and I look forward to incorporating it 
 
 💡 Key takeaway: Always challenge yourself to go beyond tutorials—creating from scratch enhances your understanding and problem-solving skills!
 
-🔗 Check out the tutorial that inspired me: https://www.youtube.com/watch?v=UWxaUT6HUvo&t=2352s
-
-#PowerBI #DataAnalytics #CustomerInsights #LearningEveryDay #DataVisualization
